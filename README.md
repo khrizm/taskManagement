@@ -1,2 +1,14 @@
 # taskManagement
-Task Management web / Aplicación web de gestión de tareas 
+Task management web / Aplicación web de gestión de tareas || 	ANGULAR / DJANGO / POSTGRESQL 
+
+--- Spanish ---
+"Nuestra plataforma web ofrece un completo gestor de tareas que te permite crear tu propio perfil personalizado. Desde allí, puedes crear, editar y eliminar tus tareas con facilidad. Además, tienes la opción de asignar fechas de vencimiento o plazos límite, organizarlas por categoría y prioridad, e incluso añadir notas o descripciones detalladas a cada tarea.
+Una de las funcionalidades destacadas de nuestra aplicación es la capacidad de organizar tus tareas de manera efectiva. Puedes crear listas o proyectos específicos, etiquetar tareas relevantes y recibir notificaciones y recordatorios cuando se acerque la fecha límite de una tarea.
+Si trabajas en equipo, nuestra plataforma te ofrece la posibilidad de crear proyectos compartidos. Esto te permite asignar y distribuir tareas entre tus compañeros, así como realizar un seguimiento del progreso de cada tarea. También puedes marcar tareas como completadas, revisar el historial de cambios y visualizar el tiempo dedicado a cada tarea.
+Nuestra aplicación se destaca por su interfaz intuitiva y amigable, diseñada para facilitar la experiencia del usuario. Además, priorizamos la seguridad de nuestros usuarios, garantizando la protección de su información personal en todo momento. También ofrecemos opciones de personalización, como cambiar el tema, ajustar la interfaz y crear flujos de trabajo personalizados, para adaptarnos a las preferencias individuales de cada usuario y brindar una experiencia aún más satisfactoria."
+
+--- English ---
+"Our web platform offers a complete task manager that allows you to create your own personalized profile. From there, you can easily create, edit and delete your tasks. In addition, you have the option to assign due dates or deadlines, organize them by category and priority, and even add notes or detailed descriptions to each task.
+One of the outstanding features of our application is the ability to organize your tasks effectively. You can create lists or specific projects, tag relevant tasks and receive notifications and reminders when a task deadline is approaching.
+If you work in a team, our platform offers you the possibility to create shared projects. This allows you to assign and distribute tasks among your colleagues, as well as track the progress of each task. You can also mark tasks as completed, review the history of changes and view the time spent on each task.
+Our application stands out for its intuitive and user-friendly interface, designed to facilitate the user's experience. In addition, we prioritize the security of our users, ensuring the protection of their personal information at all times. We also offer customization options, such as changing the theme, adjusting the interface and creating personalized workflows, to adapt to each user's individual preferences and provide an even more satisfying experience."
